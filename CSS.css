@@ -1,0 +1,55 @@
+#Title {
+    color:black; 
+    border: 2px groove gray;
+    text-align: center;
+
+}
+#Pdp {
+    position: relative;
+    left: 85%; bottom: 120px
+
+}
+#Sco {
+    background-color: rgb(125, 243, 237);
+    color:blue;
+
+}
+#Sco2 {
+    border: 4px groove gray;
+    border-radius: 10px 10px;
+    background-color: rgb(203, 240, 234);
+}
+#Ism {
+    position: relative;
+    left: 40%;  
+    right: 40%;
+}
+#Site {
+    position: relative;
+    left: 40% ; right: 40%;
+}
+#Ly {
+    background-color: rgb(187, 233, 161);
+    color:rgb(21, 65, 21)
+}
+#Ly2 {
+    border: 4px groove; 
+    border-radius: 10px 10px;
+    background-color: rgb(197, 238, 197)
+}
+#html {
+    border: 4px groove rgb(9, 60, 90)
+}
+#Img {
+    position: relative;
+    right: 40%;left: 40%
+}
+#Ly3 {
+    position: relative;
+    right:40%;left:40%
+}
+table th, tr, td {
+    border: 1px ridge;
+    position: relative;
+    right: 40%; left:40% ;
+}
